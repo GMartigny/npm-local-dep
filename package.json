@@ -1,0 +1,11 @@
+{
+    "name": "gmartigny-local-dep",
+    "version": "0.3.0",
+    "description": "Local dependencies test",
+    "main": "./src/index.js",
+    "author": "GMartigny",
+    "license": "MIT",
+    "dependencies": {
+        "@gmartigny/sub": "file:src/packages/sub"
+    }
+}
