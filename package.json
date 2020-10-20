@@ -6,6 +6,6 @@
     "author": "GMartigny",
     "license": "MIT",
     "dependencies": {
-        "@gmartigny/sub": "file:src/packages/sub"
+        "@gmartigny/sub": "file:./src/packages/sub"
     }
 }
